@@ -1,6 +1,6 @@
-# app4pm
+# Pemograman Mobile
 
-A new Flutter project.
+Ini adalah Repository pemgumpulan semua tugas dari mata kuliah Pemograman Mobile
 
 ## Getting Started
 
